@@ -51,8 +51,6 @@ function App() {
 
           <span>{cep.logradouro}</span>
 
-          <span>{cep.complemento}</span>
-
           <span>{cep.bairro}</span>
 
           <span>{cep.localidade} - {cep.uf}</span>
